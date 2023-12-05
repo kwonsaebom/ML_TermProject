@@ -5,11 +5,11 @@
 </br></br>
 <h2>Dataset</h2>
 : 
-- Credits.csv : Consists of Cast and Crew Information
-- Keywords.csv : Contains the movie plot keywords
-- Links.csv : Contains the TMDB and IMDB IDs of all the movies featured
-- Movies_metadata.csv : Main Movies Metadata file
-- Rating.csv : Ratings from users on movies
+- Credits.csv : Consists of Cast and Crew Information</br>
+- Keywords.csv : Contains the movie plot keywords</br>
+- Links.csv : Contains the TMDB and IMDB IDs of all the movies featured</br>
+- Movies_metadata.csv : Main Movies Metadata file</br>
+- Rating.csv : Ratings from users on movies</br></br>
 ==> dataset & ml-latest-small
 </br></br>
 <h2>Code</h2>
