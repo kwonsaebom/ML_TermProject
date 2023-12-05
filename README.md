@@ -4,12 +4,11 @@
 <img width="412" alt="image" src="https://github.com/kwonsaebom/ML_TermProject/assets/94830364/e6474717-60bf-4867-aa19-2684fd5e7c69">
 </br></br>
 <h2>Dataset</h2>
-: 
-- Credits.csv : Consists of Cast and Crew Information</br>
-- Keywords.csv : Contains the movie plot keywords</br>
-- Links.csv : Contains the TMDB and IMDB IDs of all the movies featured</br>
-- Movies_metadata.csv : Main Movies Metadata file</br>
-- Rating.csv : Ratings from users on movies</br></br>
+- Credits.csv : Consists of Cast and Crew Information</br></br>
+- Keywords.csv : Contains the movie plot keywords</br></br>
+- Links.csv : Contains the TMDB and IMDB IDs of all the movies featured</br></br>
+- Movies_metadata.csv : Main Movies Metadata file</br></br>
+- Rating.csv : Ratings from users on movies</br></br></br>
 ==> dataset & ml-latest-small
 </br></br>
 <h2>Code</h2>
