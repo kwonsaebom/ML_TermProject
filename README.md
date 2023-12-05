@@ -11,18 +11,18 @@
 - Movies_metadata.csv : Main Movies Metadata file
 - Rating.csv : Ratings from users on movies
 ==> dataset & ml-latest-small
-
+</br></br>
 <h2>Code</h2>
 <br>
-1. Data Preprocssing -> preprocessing.py</br>
+1. Data Preprocssing -> preprocessing.py</br></br>
 2. Content Based Filtering </br>
    - content_based_recommendation.py</br>
    - content_based_recommendation.ipynb</br>
    - content_based_kmeans.py</br>
-   - content_based_knn.py</br>
+   - content_based_knn.py</br></br>
 3. Item Based Filtering</br>
    - Collaborative_Filtering.py</br>
-   - Collaborative_Filtering.ipynb</br>
+   - Collaborative_Filtering.ipynb</br></br>
 4. Sagemaker</br>
   - encapsulation.ipynb</br>
   - Endpoint.py</br>
